@@ -1,3 +1,13 @@
 # Practice
 
-Lol
+## Setup
+
+```
+npm install
+```
+
+## Testing
+
+```
+npm test
+```
